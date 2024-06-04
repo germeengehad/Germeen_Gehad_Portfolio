@@ -3,7 +3,7 @@ title: My GitHub Page
 description: Welcome to my GitHub Page
 
 show_downloads: True
-theme: jeklyll-them-minimal
+theme: minimal
 
 # # Additional configuration
 # markdown: kramdown
@@ -13,3 +13,5 @@ theme: jeklyll-them-minimal
 # # Optional: Custom URL settings
 # url: "https://<username>.github.io"
 # baseurl: "/<repository>"
+
+

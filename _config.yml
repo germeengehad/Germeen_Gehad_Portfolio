@@ -1,0 +1,15 @@
+title: My GitHub Page
+# logo: 
+description: Welcome to my GitHub Page
+
+show_downloads: True
+theme: jeklyll-them-minimal
+
+# # Additional configuration
+# markdown: kramdown
+# plugins:
+#   - jekyll-seo-tag
+
+# # Optional: Custom URL settings
+# url: "https://<username>.github.io"
+# baseurl: "/<repository>"

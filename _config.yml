@@ -1,17 +1,7 @@
-title: My GitHub Page
-# logo: 
-description: Welcome to my GitHub Page
-
-show_downloads: True
-theme: minimal
-
-# # Additional configuration
-# markdown: kramdown
-# plugins:
-#   - jekyll-seo-tag
-
-# # Optional: Custom URL settings
-# url: "https://<username>.github.io"
-# baseurl: "/<repository>"
+title: Germeen Gehad
+# logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
 
 

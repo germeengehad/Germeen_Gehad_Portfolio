@@ -1,6 +1,11 @@
-# Germeen_Portfolio
+# Data Scientist
 
-## Projects
+#### Technical Skills: Python, SQL, PowerBi, Excel
+
+## Education
+- B.S.,Statitics |Faculty of Politics and Economics,Beni-Suef University, (_June_2021)
+
+## Data Science Projects
 ### Clustering Projects 
 
 [Predicting Credit Card Fraud : Project Overviwe](https://github.com/germeengehad/Predicting-credit-card-fraud)
@@ -11,9 +16,24 @@
 
 ### Classification Projects
 
-[Classification Telco Customers : Project Overview](https://github.com/germeengehad/Classification-Telco-Customers)
+[Project 1 : Classification Telco Customers : Project Overview](https://github.com/germeengehad/Classification-Telco-Customers)
 - This project aims to classify customers into churn or non-churn categories. Churn refers to customers who have discontinued their services within the last month. The goal is to assist companies in understanding the reasons behind customer churn and predicting which customers are likely to leave the company based on available data.
--In This Project I plan to conduct exploratory data analysis (EDA) on my dataset, followed by data preprocessing, feature selection, and feature engineering. Subsequently, I intend to apply various machine learning models, including logistic regression, support vector machine (SVM), naive Bayes, k-nearest neighbors (KNN), decision tree, random forest, gradient boosting, and XGBoost. Finally, I will evaluate the performance of these models and select the best-performing one for my dataset.
+- In This Project I plan to conduct exploratory data analysis (EDA) on my dataset, followed by data preprocessing, feature selection, and feature engineering. Subsequently, I intend to apply various machine learning models, including logistic regression, support vector machine (SVM), naive Bayes, k-nearest neighbors (KNN), decision tree, random forest, gradient boosting, and XGBoost. Finally, I will evaluate the performance of these models and select the best-performing one for my dataset.
 
 ![](/images/Telco-Improve-CX-Featured-Image_01-min.jpg)
+
+[Project 2 :Classification Traffic Situation : Project OverView](https://github.com/germeengehad/Classify-Traffic_Situation)
+- This project aims to classify traffic conditions as low, normal, high, or heavy using K-Nearest Neighbors (KNN), decision trees, random forest, gradient boosting and XGBoost.
+
+- In This Project I plan to conduct an exploratory data analysis (EDA) on my dataset, followed by data preprocessing and then building the models.
+  
+![](/images/traffic.webp)
+
+
+
+
+
+
+
+
 

@@ -1,12 +1,26 @@
-# Data Scientist
+# Data Analyst | Data scientist
 
 #### Technical Skills: Python, SQL, PowerBi, Excel
 
 ## Education
-- B.S.,Statitics |Faculty of Politics and Economics,Beni-Suef University, (_June_2021)
+- B.S., Statistics | Faculty of Politics and Economics,Beni-Suef University, (_June_2021)
+  
+## Work Experience
+**Teaching Assistant @ Beni-Suef University, Statistics Department (_March 2024 - Present_)**
+- Assisting in course instruction, grading, and providing support to students.
+
+**Data Scientist internship @ CORELIA Company (_March 2023 - Present_)**
+- Conducting data analysis, building predictive models, and contributing to data-driven decision-making processes. Focused on machine learning and deep learning, developing algorithms to analyze complex datasets and enhance predictive accuracy.
+
 
 ## Data Science Projects
-### Clustering Projects 
+- In this portfolio, I will showcase various types of machine learning and deep learning models, including:
+ - Clustering Algorithms
+ - Classification models
+ - Convolutional Neural Networks (CNN)
+ - Recurrent Neural Networks (RNN)
+
+### Clustering Algorithms 
 
 [Predicting Credit Card Fraud : Project Overviwe](https://github.com/germeengehad/Predicting-credit-card-fraud)
 - This project aims to predict credit card fraud using transaction data from European cardholders in 2023. It employs unsupervised models, including k-means clustering and Gaussian mixture models. Additionally, the project involves creating an API for the model and containerizing the application with Docker.
@@ -14,7 +28,7 @@
   
 ![](/images/credit_cards.jpeg.jpg)
 
-### Classification Projects
+### Classification models
 
 [Project 1 : Classification Telco Customers : Project Overview](https://github.com/germeengehad/Classification-Telco-Customers)
 - This project aims to classify customers into churn or non-churn categories. Churn refers to customers who have discontinued their services within the last month. The goal is to assist companies in understanding the reasons behind customer churn and predicting which customers are likely to leave the company based on available data.

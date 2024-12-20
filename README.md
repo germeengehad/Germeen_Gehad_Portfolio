@@ -78,6 +78,15 @@
 
 ![](/images/twitter.jpg)
 
+
+### My Favorite YouTube Program Data Analysis
+
+[My Favorite YouTube Program Data Analysis :Project Overview](https://github.com/germeengehad/Fav_YT_Program_Data.git)
+
+- This project involves the analysis of YouTube data from three channels where a specific program was published. The primary goal is to perform descriptive, predictive, and sentiment analysis to understand viewer engagement and suggest future content
+
+![](https://github.com/germeengehad/Fav_YT_Program_Data/blob/master/youtube_1.jpeg)
+
  
 
  

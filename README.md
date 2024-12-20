@@ -83,12 +83,11 @@
 
 [My Favorite YouTube Program Data Analysis :Project Overview](https://github.com/germeengehad/Fav_YT_Program_Data.git)
 
--This project explores descriptive, predictive, and sentiment analysis for my favorite YouTube program. Inspired by my curiosity about why this program initially received fewer views and why I sometimes felt bored watching it, I decided to analyze its performance using data.
+- This project explores descriptive, predictive, and sentiment analysis for my favorite YouTube program. Inspired by my curiosity about why this program initially received fewer views and why I sometimes felt bored watching it, I decided to analyze its performance using data.
 
 - The program is published across three different YouTube channels, and I utilized the YouTube API to scrape data specifically from the relevant playlists. The analysis includes insights into viewer engagement, trends, and sentiment around the program.
 
 - I worked on this project using Jupyter Notebook, where I set up a virtual environment to install the necessary libraries. This repository reflects my passion for data analysis and my interest in understanding content performance on YouTube.
-
 
 
 ![](https://github.com/germeengehad/Fav_YT_Program_Data/blob/master/youtube_1.jpeg)

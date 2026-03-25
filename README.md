@@ -40,7 +40,7 @@
 ### 🌐 Live Demo
 👉 [Open Dashboard](https://alphapulse-market-intelligence-n8gya9pdwmar6ad8gf4rxr.streamlit.app/)
 
-🔗 https://github.com/germeengehad/AlphaPulse-Market-Intelligence
+🔗 [Project_Overview](https://github.com/germeengehad/AlphaPulse-Market-Intelligence)
 
 - Built a **full end-to-end data platform** for financial analytics  
 - Designed ETL pipelines using **Apache Airflow**  
@@ -61,7 +61,7 @@
 
 ### Credit Card Fraud Detection  
 ![](/images/credit_cards.jpeg.jpg)
-🔗 https://github.com/germeengehad/Predicting-credit-card-fraud  
+🔗 [Project_Overview](https://github.com/germeengehad/Predicting-credit-card-fraud)  
 - Built anomaly detection system using K-Means & GMM  
 - Developed ML pipelines + API + Docker deployment
   
@@ -72,19 +72,19 @@
 
 ### Telco Customer Churn
 ![](/images/Telco-Improve-CX-Featured-Image_01-min.jpg)
-🔗 https://github.com/germeengehad/Classification-Telco-Customers
+🔗 [Project_Overview](https://github.com/germeengehad/Classification-Telco-Customers)
 - Built and compared multiple ML models (XGBoost, RF, SVM)  
 - Improved prediction accuracy through feature engineering  
 
 ### Traffic Classification
 ![](/images/traffic.webp)
-🔗 https://github.com/germeengehad/Classify-Traffic_Situation
+🔗 [Project_Overview](https://github.com/germeengehad/Classify-Traffic_Situation)
 - Developed multi-class classification system for traffic situation analysis.
 - Used ensemble models for robust predictions, integrating temporal and spatial features. 
 
 ### Heart Disease Prediction
 ![](/images/heart.jpg)
-🔗 https://github.com/germeengehad/Heart-Disease-Prediction
+🔗 [Project_Overview](https://github.com/germeengehad/Heart-Disease-Prediction)
 - Implemented logistic regression and decision tree models for healthcare prediction.
 - Conducted EDA, feature selection, and model evaluation to ensure clinical relevance.  
 
@@ -94,14 +94,14 @@
 
 ### Arabic OCR System
 ![](/images/characters.jpg)
-🔗 https://github.com/germeengehad/Identify-Arabic-letters-through-their-pictures?tab=readme-ov-file
+🔗 [Project_Overview](https://github.com/germeengehad/Identify-Arabic-letters-through-their-pictures?tab=readme-ov-file)
 - CNN model for recognizing 28 Arabic letters  
 - Created and augmented a custom dataset to improve accuracy.
 - Applied image preprocessing techniques to improve model robustness.  
 
 ### Image-Based Character Prediction 
 ![](/images/characters.jpg)
-🔗 https://github.com/germeengehad/Predict-Human-Character-from-a-Facial-Image
+🔗 [Project_Overview](https://github.com/germeengehad/Predict-Human-Character-from-a-Facial-Image)
 - Developed CNN-based image classification system for human character prediction.
 - Implemented data augmentation and model evaluation pipelines.  
 
@@ -111,7 +111,7 @@
 
 ### Twitter Sentiment Analysis 
 ![](/images/twitter.jpg)
-🔗 https://github.com/germeengehad/Twitter-Sentiment-Analysis-and-Classification
+🔗 [Project_Overview](https://github.com/germeengehad/Twitter-Sentiment-Analysis-and-Classification)
 - Built NLP models (LSTM, RNN, SVM)  
 - Used TF-IDF and embeddings  
 
@@ -121,7 +121,7 @@
 
 ### Data Analysis & Web Scraping 
 ![](/images/youtube_1.jpeg)
-🔗 https://github.com/germeengehad/Fav_YT_Program_Data.git
+🔗 [Project_Overview](https://github.com/germeengehad/Fav_YT_Program_Data.git)
 - Collected and analyzed YouTube data via API to study engagement patterns.
 - Performed sentiment analysis and viewer engagement scoring.
 - Generated interactive dashboards for data visualization and trend analysis. 

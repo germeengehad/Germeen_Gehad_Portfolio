@@ -37,6 +37,8 @@
 # 🚀 Featured Project
 
 ## 🧠 AlphaPulse – AI-Powered Trading & Market Intelligence System  
+### 🌐 Live Demo
+👉 [Open Dashboard](https://alphapulse-market-intelligence-n8gya9pdwmar6ad8gf4rxr.streamlit.app/)
 🔗 https://github.com/germeengehad/AlphaPulse-Market-Intelligence
 
 - Built a **full end-to-end data platform** for financial analytics  

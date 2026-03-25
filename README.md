@@ -6,7 +6,7 @@
 
 ## 🎓 Education
 - **M.Sc. in Statistics & Computer Science (Ongoing)** – Karadeniz Technical University, Turkey  
-- **B.S. in Statistics (GPA: 4.46/5)** – Beni-Suef University  
+- **B.S. in Statistics (GPA: 4.46/5)** – Beni-Suef University, Egypt
 
 ---
 

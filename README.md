@@ -97,7 +97,7 @@
 ## 🔹 Deep Learning
 
 ### Arabic OCR System
-![](/images/characters.jpg)
+![]((https://github.com/germeengehad/Germeen_Gehad_Portfolio/blob/main/images/arabic%20letters.png))
 
 🔗[Project_Overview](https://github.com/germeengehad/Identify-Arabic-letters-through-their-pictures?tab=readme-ov-file)
 - CNN model for recognizing 28 Arabic letters  

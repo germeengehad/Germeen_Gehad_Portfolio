@@ -1,116 +1,149 @@
-# Data Analyst | Data scientist
+# 🚀 Data Scientist | ML Engineer | Data & AI Systems Builder
 
-#### Technical Skills: Python, SQL, PowerBi, Excel
+#### Technical Skills: Python, SQL, Machine Learning, Airflow, Docker, PostgreSQL, Spark SQL, Power BI, Tableau
 
-## Education
-- B.S., Statistics | Faculty of Politics and Economics,Beni-Suef University, (_June_2021)
-  
-## Work Experience
-**Teaching Assistant @ Beni-Suef University, Statistics Department (_March 2024 - Present_)**
-- Assisting in course instruction, grading, and providing support to students.
+---
 
-**Data Scientist internship @ CORELIA Company (_March 2023 - Present_)**
-- Conducting data analysis, building predictive models, and contributing to data-driven decision-making processes. Focused on machine learning and deep learning, developing algorithms to analyze complex datasets and enhance predictive accuracy.
+## 🎓 Education
+- **M.Sc. in Statistics & Computer Science (Ongoing)** – Karadeniz Technical University, Turkey  
+- **B.S. in Statistics (GPA: 4.46/5)** – Beni-Suef University  
 
+---
 
-## Data Science Projects
-- In this portfolio, I will showcase various types of machine learning and deep learning models, including:
-   -  Clustering Algorithms
-   -  Classification models
-   -  Convolutional Neural Networks (CNN)
-   -  Natural Language Processing (NLP) models
+## 💼 Professional Experience
 
-### Clustering Algorithms 
+**Teaching Assistant – Beni-Suef University (2024 – Present)**  
+- Delivered undergraduate and postgraduate courses in statistics, regression, and time series analysis.
+- Mentored students in machine learning and data analysis projects, guiding them through feature engineering, model selection, and result interpretation.
+- Supervised student-led projects including simulation models and predictive analytics
 
-[Predicting Credit Card Fraud : Project Overviwe](https://github.com/germeengehad/Predicting-credit-card-fraud)
-- This project aims to predict credit card fraud using transaction data from European cardholders in 2023. It employs unsupervised models, including k-means clustering and Gaussian mixture models. Additionally, the project involves creating an API for the model and containerizing the application with Docker.
-- In This Project I plan to conduct an exploratory data analysis (EDA) on my dataset, followed by feature engineering and selection, and then create pipelines for model training and prediction. Specifically, I have developed pipelines for both the KMeans and GaussianMixture models to predict labels for each data point. For each model
-  
+**Data Scientist & Automation Developer – COC Company (2025)**  
+- Built end-to-end automation systems using Zoho Deluge for invoicing, CRM, and workflow management.
+- Developed ML/DL models to forecast sales and predict customer behavior, increasing operational efficiency.
+- Designed AI-based customer service agents to improve client engagement and response time. 
+
+**Freelance Data Scientist – Reefy Microfinance (2025)**  
+- Built real-time Tableau dashboards for financial monitoring and key performance indicators.
+- Automated ETL pipelines with Apache Airflow and Spark SQL, reducing manual reporting by 70%.
+- Conducted statistical risk analysis to support lending decisions and portfolio management.  
+
+**Data Scientist Intern – Corelia (2023–2024)**  
+- Developed ML and DL models for real-world business applications.
+- Performed data cleaning, preprocessing, feature engineering, and hyperparameter optimization.
+- Built proof-of-concept pipelines for predictive analytics and recommendation systems.
+
+---
+
+# 🚀 Featured Project
+
+## 🧠 AlphaPulse – AI-Powered Trading & Market Intelligence System  
+🔗 https://github.com/germeengehad/AlphaPulse-Market-Intelligence
+
+- Built a **full end-to-end data platform** for financial analytics  
+- Designed ETL pipelines using **Apache Airflow**  
+- Stored multi-timeframe market data in **PostgreSQL (Dockerized)**  
+- Developed ML model for **BUY/SELL signal prediction**  
+- Implemented **backtesting engine** (return, win rate, drawdown)  
+- Built interactive **Streamlit dashboard** for real-time insights  
+- Integrated **multi-timeframe feature engineering (1D, 1H, 15min)**  
+- Added **model explainability (feature importance)**  
+
+🔹 Tech: Python, Airflow, Docker, PostgreSQL, Streamlit, Scikit-learn ,linux , ML
+
+---
+
+# 📊 Projects
+
+## 🔹 Data Engineering & ML
+
+### Credit Card Fraud Detection  
 ![](/images/credit_cards.jpeg.jpg)
+🔗 https://github.com/germeengehad/Predicting-credit-card-fraud  
+- Built anomaly detection system using K-Means & GMM  
+- Developed ML pipelines + API + Docker deployment
+  
 
+---
 
-### Classification Models
+## 🔹 Machine Learning
 
-[Project 1 : Classification Telco Customers : Project Overview](https://github.com/germeengehad/Classification-Telco-Customers)
-- This project aims to classify customers into churn or non-churn categories. Churn refers to customers who have discontinued their services within the last month. The goal is to assist companies in understanding the reasons behind customer churn and predicting which customers are likely to leave the company based on available data.
-- In This Project I plan to conduct exploratory data analysis (EDA) on my dataset, followed by data preprocessing, feature selection, and feature engineering. Subsequently, I intend to apply various machine learning models, including logistic regression, support vector machine (SVM), naive Bayes, k-nearest neighbors (KNN), decision tree, random forest, gradient boosting, and XGBoost. Finally, I will evaluate the performance of these models and select the best-performing one for my dataset.
-
+### Telco Customer Churn
 ![](/images/Telco-Improve-CX-Featured-Image_01-min.jpg)
+🔗 https://github.com/germeengehad/Classification-Telco-Customers
+- Built and compared multiple ML models (XGBoost, RF, SVM)  
+- Improved prediction accuracy through feature engineering  
 
-[Project 2 :Classification Traffic Situation : Project OverView](https://github.com/germeengehad/Classify-Traffic_Situation)
-- This project aims to classify traffic conditions as low, normal, high, or heavy using K-Nearest Neighbors (KNN), decision trees, random forest, gradient boosting and XGBoost.
-
-- In This Project I plan to conduct an exploratory data analysis (EDA) on my dataset, followed by data preprocessing and then building the models.
-  
+### Traffic Classification
 ![](/images/traffic.webp)
+🔗 https://github.com/germeengehad/Classify-Traffic_Situation
+- Developed multi-class classification system for traffic situation analysis.
+- Used ensemble models for robust predictions, integrating temporal and spatial features. 
 
-[Project 3 : Heart Disease prediction : Project Overview](https://github.com/germeengehad/Heart-Disease-Prediction)
-
-- In this project, we will predict whether a patient has heart disease or not using logistic regression based on a dataset of patient information.
-- In This Project I plan to conduct exploratory data analysis (EDA) on my dataset, followed by data preprocessing. After that, I will apply a logistic regression model to the data.
-
+### Heart Disease Prediction
 ![](/images/heart.jpg)
+🔗 https://github.com/germeengehad/Heart-Disease-Prediction
+- Implemented logistic regression and decision tree models for healthcare prediction.
+- Conducted EDA, feature selection, and model evaluation to ensure clinical relevance.  
 
+---
 
-### Convolutional Neural Networks (CNN) Models 
-[Project 1 : Predict Human Character from a Facial Image : Project Overview](https://github.com/germeengehad/Predict-Human-Character-from-a-Facial-Image)
+## 🔹 Deep Learning
 
-- This project aims to predict whether a person's character is savory or unsavory based on their images using deep learning techniques, specifically a Convolutional Neural Network (CNN) model.
-- All data in this dataset was gathered from PUBLICLY accessible web sites or databases .This dataset consists of 2 classes, savory and unsavory. The unsavory class is populate with  facial Images of convicted felons. The savory class is populated with facial images of "ordinary" people. Granted some "ordinary" people may be convicted felon but I expect the percentage is very low.
-- Initially, I planned to import the dataset from Kaggle. I then applied data augmentation and preprocessing techniques. After building and training a CNN model, I tested it by predicting the character (savory or unsavory) of two individuals using images. Note that only the training and validation datasets were used for model development. The model was tested with images sourced from the web, which I uploaded to this repository.
-
+### Arabic OCR System
 ![](/images/characters.jpg)
+🔗 https://github.com/germeengehad/Identify-Arabic-letters-through-their-pictures?tab=readme-ov-file
+- CNN model for recognizing 28 Arabic letters  
+- Created and augmented a custom dataset to improve accuracy.
+- Applied image preprocessing techniques to improve model robustness.  
 
-[Project 2 : Arabic Letters OCR Uing A CNN Model : Projct Overview](https://github.com/germeengehad/Identify-Arabic-letters-through-their-pictures?tab=readme-ov-file)
+### Image-Based Character Prediction 
+![](/images/characters.jpg)
+🔗 https://github.com/germeengehad/Predict-Human-Character-from-a-Facial-Image
+- Developed CNN-based image classification system for human character prediction.
+- Implemented data augmentation and model evaluation pipelines.  
 
-- This project aims to apply OCR to recognize Arabic letters using a CNN model trained on a collection of Arabic letter images. Additionally.
-- In this project, I decided to start with data augmentation. I then created a new dataset by extracting only the Arabic letters, ignoring the numbers. This resulted in 28 classes, one for each Arabic letter. I separated the data into training and validation sets. Finally, I built a CNN model, trained it, and saved it in HDF5 format for download
-  
-![](/images/arabic%20letters.png)
+---
 
+## 🔹 NLP
 
-### Natural Language Processing (NLP) models
-
-[Twitter Sentiment Analysis And Classification : Project Overview](https://github.com/germeengehad/Twitter-Sentiment-Analysis-and-Classification)
-
-- This project aims to analyze and classify a dataset of tweets into Positive, Negative, and Neutral classes using various models, including RNN, LSTM, SVM, and Naive Bayes.
-- In this project, I decided to upload the dataset from Kaggle. After that, I applied Exploratory Data Analysis (EDA) and data preprocessing. I used text embedding for the RNN and LSTM models, and TF-IDF vectorization for the SVM and Naive Bayes models. Finally, I built and trained the models
-
+### Twitter Sentiment Analysis 
 ![](/images/twitter.jpg)
+🔗 https://github.com/germeengehad/Twitter-Sentiment-Analysis-and-Classification
+- Built NLP models (LSTM, RNN, SVM)  
+- Used TF-IDF and embeddings  
 
+---
 
-### Data Analysis Projects
+## 🔹 Data Analysis and web scrabing
 
-[My Favorite YouTube Program Data Analysis :Project Overview](https://github.com/germeengehad/Fav_YT_Program_Data.git)
-
-- This project explores descriptive, predictive, and sentiment analysis for my favorite YouTube program. Inspired by my curiosity about why this program initially received fewer views and why I sometimes felt bored watching it, I decided to analyze its performance using data.
-
-- The program is published across three different YouTube channels, and I utilized the YouTube API to scrape data specifically from the relevant playlists. The analysis includes insights into viewer engagement, trends, and sentiment around the program.
-
-- I worked on this project using Jupyter Notebook, where I set up a virtual environment to install the necessary libraries. This repository reflects my passion for data analysis and my interest in understanding content performance on YouTube.
-
-
+### Data Analysis & Web Scraping 
 ![](/images/youtube_1.jpeg)
+🔗 https://github.com/germeengehad/Fav_YT_Program_Data.git
+- Collected and analyzed YouTube data via API to study engagement patterns.
+- Performed sentiment analysis and viewer engagement scoring.
+- Generated interactive dashboards for data visualization and trend analysis. 
 
- 
+---
 
- 
+# 🧠 Core Strengths
 
-  
+- End-to-end **AI system design (Data → Model → Dashboard)**  
+- **Data Engineering pipelines** (Airflow, Spark, ETL)  
+- **Machine Learning & Deep Learning**  
+- **Automation & workflow optimization**  
+- Building **real-world data products**  
 
+---
 
+# 🎯 Summary
 
+Data Scientist & ML Engineer with experience in scalable AI systems and data-driven business solutions **, combining:
 
+- Data Engineering
+- Machine Learning & Deep Learning
+- Automation & Workflow Optimization
+- Business Analytics 
 
-
-
-
-
-
-
-
-
-
-
-
+Focused on delivering production-ready, real-world data products that drive impact.**.
+# Machine Learning Engineering| Data scientist
 
